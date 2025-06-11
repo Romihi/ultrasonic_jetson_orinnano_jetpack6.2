@@ -1,7 +1,5 @@
-# ultrasonic_jetson_orinnano_jetpack6.2
-jetpack6.2対応のためにJETGPIOを利用
-
 # JETGPIO超音波センサー セットアップガイド
+jetpack6.2対応のためにJETGPIOを利用
 
 Jetson Orin NanoでJETGPIOライブラリを使用してHC-SR04超音波センサーを制御するための簡潔なセットアップガイドです。
 
@@ -185,6 +183,6 @@ newgrp kmem
 
 ---
 
-**対応デバイス**: Jetson Orin Nano/NX, Orin AGX, Jetson Nano, Xavier NX  
-**必要なOS**: Ubuntu 22.04 (JetPack 5.x)  
+**確認デバイス**: Jetson Orin Nano/Super  
+**必要なOS**: Ubuntu 22.04 (JetPack 6.2)  
 **センサー**: HC-SR04超音波センサー
