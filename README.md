@@ -1,0 +1,2 @@
+# ultrasonic_jetson_orinnano_jetpack6.2
+jetpack6.2対応のためにJETGPIOを利用
